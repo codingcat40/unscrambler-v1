@@ -20,7 +20,7 @@ vercel
 
 In `src/lib/seo.ts`, change:
 ```ts
-export const SITE_URL = 'https://wordunscramble.app'
+export const SITE_URL = 'https://word-unscrambler-tan.vercel.app'
 ```
 to your actual Vercel / custom domain. This affects:
 - All canonical URLs
