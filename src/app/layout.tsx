@@ -71,6 +71,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link rel="preconnect" href="https://pagead2.googlesyndication.com" />
         <link rel="dns-prefetch" href="https://googleads.g.doubleclick.net" />
+        <meta name="google-site-verification" content="XHEps6Pv-NTnCdXAuAgqYXmp3H3XbyaGLx6C7tTp284" />
       </head>
       <body>
         <Navbar />
