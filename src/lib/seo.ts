@@ -12,8 +12,8 @@
 // Volume estimates based on Ahrefs/SEMrush patterns for word tool niche.
 // ============================================================
 
-export const SITE_NAME = 'WordUnscramble'
-export const SITE_URL = 'https://wordunscramble.app' // UPDATE to your Vercel domain
+export const SITE_NAME = 'word-unscrambler'
+export const SITE_URL = 'https://word-unscrambler-blush.vercel.app' // UPDATE to your Vercel domain
 export const SITE_TAGLINE = 'Free Word Tools for Every Word Game'
 
 // ============================================================
